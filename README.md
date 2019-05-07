@@ -1,1 +1,1 @@
-# Potts-model-2Dlattice
+# Potts Model simulation on 2D Lattice
